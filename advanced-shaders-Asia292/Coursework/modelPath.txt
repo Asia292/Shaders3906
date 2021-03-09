@@ -1,0 +1,1 @@
+assets/models/Cat2/Cat2.obj
